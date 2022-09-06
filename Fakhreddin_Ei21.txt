@@ -1,0 +1,10 @@
+Skapa en ny katalog under sin hemkatalog med namnet <VårtUnikaProjektNamn>. 
+Skapa en enkel textfil i den nya katalogen <MittNamn_InteSammaSomMinKompis>.txt med några rader text.
+Skapa ett nytt repo på GitHub med namnet <VårtUnikaProjektNamn>
+Ge kommandot ‘git init’ i katalogen <VårtUnikaProjektNamn>
+Ge kommandot ‘git status’ - Hur tolkar du svaret?
+Ge kommandot ‘git add <MittNamn_InteSammaSomMinKompis>’ och på nytt kommandot ‘git status’.  - Hur tolkar du svaret?
+Ge kommandot ‘git commit -m <En Kommenta inom “citationstecken”>’ och på nytt kommandot ‘git status’.  - Hur tolkar du svaret?
+Lägg till lite ny text i filen <MittNamn_InteSammaSomMinKompis>.txt och ge kommandot ‘git diff’ - Hur tolkar du svaret?
+Ge kommandot ‘git restore --stage --worktree’ och återigen ‘git diff’ - Hur tolkar du svaret?
+
