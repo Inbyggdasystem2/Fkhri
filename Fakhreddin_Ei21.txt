@@ -8,3 +8,4 @@ Ge kommandot ‘git commit -m <En Kommenta inom “citationstecken”>’ och p�
 Lägg till lite ny text i filen <MittNamn_InteSammaSomMinKompis>.txt och ge kommandot ‘git diff’ - Hur tolkar du svaret?
 Ge kommandot ‘git restore --stage --worktree’ och återigen ‘git diff’ - Hur tolkar du svaret?
 
+Ya salam alek ya man
